@@ -1,0 +1,27 @@
+{
+  "transferencias": [
+    {
+      "id": "1",
+      "valor": 35,
+      "destino": "1212-1",
+      "data": "2020-11-04T16:30:10.710Z"
+    },
+    {
+      "valor": 99999,
+      "destino": "Marcos Aurelio",
+      "data": "2022-04-14T13:05:44.704Z",
+      "id": "zT70kAY"
+    },
+    {
+      "valor": 111,
+      "data": "2022-04-14T19:33:02.672Z",
+      "id": "ClyKlef"
+    },
+    {
+      "valor": 343434,
+      "destino": "Marcooo Aurelio",
+      "data": "2022-04-14T19:33:13.881Z",
+      "id": "TJKtL6z"
+    }
+  ]
+}
